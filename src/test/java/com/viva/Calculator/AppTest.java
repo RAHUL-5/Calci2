@@ -17,7 +17,7 @@ public class AppTest
 	
 	@Test
 	public void addTrue() {
-		assertEquals(2, app.add(12, 13));
+		assertEquals(25, app.add(12, 13));
 	}
 	@Test
 	public void addFail() {
