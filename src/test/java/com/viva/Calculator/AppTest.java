@@ -46,7 +46,7 @@ public class AppTest
 	
 	@Test
 	public void divTrue() {
-		assertEquals(1, app.div(12, 0));
+		assertEquals(1, app.div(12, 12));
 	}
 	@Test
 	public void divFail() {
